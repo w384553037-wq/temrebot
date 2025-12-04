@@ -9,7 +9,7 @@
 <tbody>
 <tr>
 <td align="left">极搜JiSo</td>
-<td align="center"><a href="t.me/jisou?start=a_6411111620" rel="nofollow">@jiso</a></td>
+<td align="center"><a href="https://t.me/jisou?start=a_6411111620" rel="nofollow">@jiso</a></td>
 <td align="left">发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻</td>
 </tr>
 <tr>
