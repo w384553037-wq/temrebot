@@ -1,7 +1,6 @@
-div class="Box-sc-62in7e-0 js-snippet-clipboard-copy-unpositioned DirectoryRichtextContent-module__SharedMarkdownContent--BTKsc" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+<h1 align="center" dir="auto">
 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
- Telegram中文频道: <a href="https://t.me/tgcn_wiki" rel="nofollow">@tgcn_wiki</a>  官方网站: <a href="https://tg10000.com" rel="nofollow">tg10000.com</a>  商务合作: <a href="mailto:tglumao@gmail.com">@tglumao@gmail.com</a><br>
-</div>
+</h1>
 <markdown-accessiblity-table><table>
 <thead>
 <tr>
